@@ -1,0 +1,21 @@
+.number {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    font-size: 32px;
+}
+
+.red {
+    text-align: center;
+    background: red;
+    color: white;
+    height: 100px;
+    width: 100px;
+    font-size: 32px;
+}
+
+.bigger-button {
+    width: 300px;
+    height: 100px;
+    font-size: 32px;
+}
